@@ -1,0 +1,10 @@
+Installs under a user account
+Installs under a power user account
+Installs under an administrator account	
+Completes a minimal installation
+Completes a typical installation
+Completes a full installation
+Completes a network installation
+Completes a local installation when you use Add or Remove Programs
+Performs Microsoft® Windows® operating system version checking correctly
+Lists on Start menu and has desktop shortcuts for all users

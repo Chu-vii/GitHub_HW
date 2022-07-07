@@ -1,0 +1,15 @@
+ID/name:
+Summary/Title: описание бага “Что? Где? Когда?”
+Project: название ПО
+Version/Build: версия ПО, в которой был обнаружен баг
+Severity (Blocker, Critical, Major, Minor, Trivial):показывает, насколько серьезные последствия от дефекта с точки зрения влияния на систему 
+Priority (High, Medium, Low): очередь, в которой баг будет исправляться
+Status:(Open, In Progress, Ready for check, Closed): текущий статус бага в его жизненном цикле
+TypeofBug(UI, UX, Functional, SEO):
+Author:
+Assigned to:
+Environment:  информация об окружении, на котором воспроизводится баг (версия браузера, операционная система, размер экрана, тестовый сервер и т.п.)
+Steps to Reproduce: действий, которые необходимо совершить, чтоб воспроизвести баг со всей необходимой информацией
+ExpectedResult:
+ActualResult:
+Attachment:
