@@ -1,0 +1,4 @@
+Nama: Vctoria
+Age: 23
+Number of pets: 0
+Salary: 5000$
