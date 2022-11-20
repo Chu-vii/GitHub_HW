@@ -12,7 +12,7 @@ $ cd json
 Viktoria@DESKTOP-BFB0G5P MINGW64 /d/Chuvii/QA/json (main)
 $ touch new.json
 
- 7. Добавить файл под гит.
+ 7. Добавить файл под гит .
 $ git add new.json
 
  8. Закоммитить файл.
